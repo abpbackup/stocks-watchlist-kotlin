@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "price": 1515.99
+  },
+  {
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "price": 145.30
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "ticker": "AMZN",
+    "price": 3116.42
+  }
+]
