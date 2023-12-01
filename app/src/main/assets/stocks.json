@@ -13,5 +13,35 @@
     "name": "Amazon.com Inc.",
     "ticker": "AMZN",
     "price": 3116.42
+  },
+  {
+    "name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "price": 225.54
+  },
+  {
+    "name": "Meta Platforms",
+    "ticker": "META",
+    "price": 325.38
+  },
+  {
+    "name": "Teladoc Health",
+    "ticker": "TDOC",
+    "price": 18.54
+  },
+  {
+    "name": "XXXX asda",
+    "ticker": "XXX",
+    "price": 12.58
+  },
+  {
+    "name": "YYYY asda",
+    "ticker": "YYY",
+    "price": 32.58
+  },
+  {
+    "name": "ZZZZZ asda",
+    "ticker": "ZZZ",
+    "price": 42.58
   }
 ]
